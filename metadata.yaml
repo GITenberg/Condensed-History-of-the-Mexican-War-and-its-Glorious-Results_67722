@@ -1,0 +1,31 @@
+_repo: Condensed-History-of-the-Mexican-War-and-its-Glorious-Results_67722
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: McKay, William
+    gutenberg_agent_id: '54421'
+    url: http://www.gutenberg.org/2009/agents/54421
+  - agent_name: Hungerford, Daniel E.
+    gutenberg_agent_id: '54422'
+    url: http://www.gutenberg.org/2009/agents/54422
+  - agent_name: Murphy, Charles J.
+    gutenberg_agent_id: '54423'
+    url: http://www.gutenberg.org/2009/agents/54423
+description: ''
+gutenberg_issued: '2022-03-27'
+identifiers:
+  gutenberg: '67722'
+language: en
+pgterms:marc905: 20220212154506mckay
+pgterms:marc906: '1902'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :John E. Cowan,1902.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Condensed History of the Mexican War and its Glorious Results
+url: http://www.gutenberg.org/ebooks/67722
