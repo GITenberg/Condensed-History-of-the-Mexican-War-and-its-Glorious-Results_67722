@@ -1,5 +1,8 @@
 _repo: Condensed-History-of-the-Mexican-War-and-its-Glorious-Results_67722
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67722-h/images/cover.jpg
 creator:
   authors:
   - agent_name: McKay, William
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '54423'
     url: http://www.gutenberg.org/2009/agents/54423
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67722#Condensed-History-of-the-Mexican-War-and-its-Glorious-Results
 gutenberg_issued: '2022-03-27'
 identifiers:
   gutenberg: '67722'
